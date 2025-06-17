@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>New Detox - Emagreça de Forma Natural</title>
+  <meta name="description" content="New Detox ajuda a eliminar toxinas, reduzir inchaço e emagrecer com saúde. Compre com desconto agora!">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
+    .container { max-width: 800px; margin: auto; padding: 20px; background: #fff; }
+    h1, h2, h3 { color: #2c3e50; }
+    .cta { background: #27ae60; color: white; text-align: center; padding: 15px; margin: 20px 0; font-size: 1.2em; border-radius: 5px; text-decoration: none; display: block; }
+    .benefits { background: #eafaf1; padding: 15px; border-radius: 5px; margin-top: 20px; }
+    .testimonials { font-style: italic; background: #fef9e7; padding: 15px; border-radius: 5px; margin-top: 20px; }
+    .footer { text-align: center; font-size: 0.9em; color: #777; margin-top: 40px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Chega de Inchaço e Dificuldade para Emagrecer!</h1>
+    <p>Você sente que está sempre inchada, cansada e com dificuldade para perder peso, mesmo fazendo dieta? O <strong>New Detox</strong> é o segredo natural que está transformando o corpo de milhares de brasileiras.</p>
+
+    <a href="https://ev.braip.com/ref?pv=proxxzoe&af=afi28zyoxn" class="cta">💚 Quero Emagrecer com New Detox</a>
+
+    <h2>O Que é o New Detox?</h2>
+    <p>É um suplemento 100% natural que age desintoxicando seu organismo, acelerando o metabolismo, reduzindo o inchaço e queimando gordura de forma contínua. Basta tomar 2 cápsulas por dia e começar a ver resultados nas primeiras semanas!</p>
+
+    <div class="benefits">
+      <h3>✅ Benefícios Comprovados:</h3>
+      <ul>
+        <li>Elimina toxinas e retenção de líquidos</li>
+        <li>Acelera a queima de gordura abdominal</li>
+        <li>Reduz celulites e melhora o intestino</li>
+        <li>Controla a ansiedade por doces</li>
+        <li>Aumenta a energia e disposição</li>
+      </ul>
+    </div>
+
+    <a href="https://ev.braip.com/ref?pv=proxxzoe&af=afi28zyoxn" class="cta">🛒 Garantir Desconto Agora</a>
+
+    <div class="testimonials">
+      <h3>📣 Mulheres Reais, Resultados Reais:</h3>
+      <p>"Eu perdi 7kg em 1 mês com o New Detox! Me sinto muito mais leve e minha autoestima voltou." – <strong>Ana S.</strong></p>
+      <p>"Nunca imaginei que um detox faria tanta diferença. Adeus barriga inchada!" – <strong>Juliana M.</strong></p>
+    </div>
+
+    <h2>Promoção por Tempo Limitado</h2>
+    <p>Você pode garantir seu kit do New Detox com até <strong>60% de desconto</strong> e <strong>frete grátis</strong> hoje mesmo. Mas corra, os estoques são limitados!</p>
+
+    <a href="https://ev.braip.com/ref?pv=proxxzoe&af=afi28zyoxn" class="cta">🔒 Comprar com Desconto na Braip</a>
+
+    <div class="footer">
+      <p>Este site é apenas para fins informativos e promocionais. Todos os direitos reservados.</p>
+    </div>
+  </div>
+</body>
+</html>
